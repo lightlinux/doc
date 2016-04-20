@@ -1,0 +1,2 @@
+# doc
+lightlinux doc
